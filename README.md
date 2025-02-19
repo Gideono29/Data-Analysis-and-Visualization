@@ -2,4 +2,5 @@
 The objective is to analyze the annual sales of Coca-Cola by US states. 
 
 ## Dataset 
-https://view.flodesk.com/pages/64956a78e24707d60dfe48c7
+
+- <a href = "https://github.com/Gideono29/Data-Analysis-and-Visualization/blob/main/Power%20BI%20Dataset%20vF.xlsx">Dataset</a>
