@@ -7,11 +7,12 @@ The dataset captures demographic variables such as age, gender, ethnicity, marit
 
 It also includes clinical information such as the date of diagnosis, duration of symptoms, and previous psychiatric history, which provides insights into disease progression and comorbidity. Of particular importance are the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) scores, which measure the severity of obsessions and compulsions separately. This distinction allows for a nuanced understanding of the disorder’s symptom profile.
 
+
+<img width="1785" height="969" alt="Screenshot 2025-10-18 000327" src="https://github.com/user-attachments/assets/19966693-afb2-4e54-8608-cda918b45029" />
+
 Beyond symptom assessment, the dataset highlights co-occurring conditions like depression and anxiety, which are common among individuals with OCD. It also documents treatment approaches, including the types of medications prescribed, and whether patients have a family history of OCD, offering potential clues about genetic or environmental influences.
 
 Overall, this dataset provides a multidimensional perspective on OCD, combining demographic, diagnostic, and therapeutic information. Its breadth allows researchers and clinicians to explore hidden trends and associations, such as demographic factors linked to symptom severity or treatment outcomes.
-
-<img width="1785" height="969" alt="Screenshot 2025-10-18 000327" src="https://github.com/user-attachments/assets/19966693-afb2-4e54-8608-cda918b45029" />
 
 ## OCD Dataset – Key Findings and Insights
 
