@@ -10,3 +10,4 @@ The objective is to analyze the annual sales of Coca-Cola by US states.
 
 
 ![train_test_accuracy.png](https://github.com/user-attachments/assets/e40b9896-9157-4c3b-a7a5-c4a3c184ab8c)
+<img width="1785" height="969" alt="Screenshot 2025-10-18 000327" src="https://github.com/user-attachments/assets/19966693-afb2-4e54-8608-cda918b45029" />
