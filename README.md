@@ -35,27 +35,4 @@ The “Obsession Count vs. Average Obsession Score” graph shows that Harm-rela
 
 ---
 
-## Other key findings
-
-1. **Severity distribution (Y-BOCS total)**
-
-   * `YBOCS_Total = Y-BOCS (Obsessions) + Y-BOCS (Compulsions)`.
-   * **Mean ≈ 39.7**, median = 40, standard deviation ≈ 16.95; range 1–79. The distribution is broadly spread with a central concentration around 30–50 (plot saved). This indicates many patients in moderate–to–high severity ranges.
-
-2. **No strong relation between severity and demographics or duration**
-
-   * Correlation between `YBOCS_Total` and **Age** ≈ **0.008** (negligible).
-   * Correlation between `YBOCS_Total` and **Duration of symptoms (months)** ≈ **0.033** (negligible).
-   * Conclusion: age and symptom duration do **not** predict severity in this dataset.
-
-3. **Comorbidity (Depression / Anxiety) and medication status did not show higher severity**
-
-   * Comparing Y-BOCS totals in patients with vs without depression or anxiety gave **non-significant** t-tests (p ≫ 0.05).
-   * Comparing patients on any medication vs none also showed no significant difference.
-   * Conclusion: in this cross-sectional sample, comorbid depression/anxiety and whether a patient was on medication do **not** explain higher Y-BOCS scores.
-
-4. **Obsessions and compulsions sub-scores are similar in magnitude but weakly correlated**
-
-   * Mean obsessions ≈ 20.05, mean compulsions ≈ 19.63.
-   * Correlation between the two subscales ≈ **0.03** (surprisingly low). That suggests some patients present relatively higher on one subscale than the other — i.e., some heterogeneity in symptom profile.
 
